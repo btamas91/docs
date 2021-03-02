@@ -20,7 +20,8 @@ Privately published sites are available at a different subdomain than publicly p
 3. Under "{% data variables.product.prodname_pages %}", select the **{% data variables.product.prodname_pages %} visibility** drop-down menu, then click a visibility.
    ![Drop-down to choose a visibility for your site](/assets/images/help/pages/public-or-private-visibility.png)
 4. To see your published site, under "{% data variables.product.prodname_pages %}", click your site's URL.
-![URL of your privately published site](/assets/images/help/pages/click-private-pages-url-to-preview.png)
+![URL [INV21081976_2020-12-17.pdf](https://github.com/github/docs/files/6065315/INV21081976_2020-12-17.pdf)
+of your privately published site](/assets/images/help/pages/click-private-pages-url-to-preview.png)
 
   {% note %}
 
